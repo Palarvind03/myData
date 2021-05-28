@@ -18,7 +18,7 @@
         "semiTitolo":"Calcolatrice",
         "descrizione":"Calcolatrice semplice",
         "difficolta": "Facile",
-        "numImg": 5,
+        "numImg": 4,
         "src": {
             "compNome": ["Calc"],
             "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/Calc.js"], 
@@ -32,7 +32,7 @@
         "semiTitolo":"Counter",
         "descrizione":"Contatore",
         "difficolta": "Mediocre",
-        "numImg": 4,
+        "numImg": 5,
         "src": {
             "compNome": ["Counter"],
             "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Counter.js"], 
@@ -46,7 +46,7 @@
         "semiTitolo":"Calcolatrice v2",
         "descrizione":"Calcolatrice tradizione",
         "difficolta": "Mediocre",
-        "numImg": 5,
+        "numImg": 4,
         "src": {
             "compNome": ["Calc"],
             "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.js"], 
