@@ -1,39 +1,68 @@
 [
     {
         "titolo":"PROGETTO 1",
-        "semiTitolo":"Calcolatrice",
-        "descrizione":"Una semplice calcolatrice",
+        "semiTitolo":"Hello World!",
+        "descrizione":"Stampa il testo 'Hello World'",
         "difficolta": "Facile",
-        "numImg": 5,
+        "numImg": 1,
         "src": {
-            "compNome": ["Calc"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/Calc.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/Calc.css"], 
-            "indexCss": "https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/index.css",
-            "indexJs": "https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/index.js"
+            "compNome": ["HelloWrld"],
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.js"
         }
     },
     {
         "titolo":"PROGETTO 2",
-        "semiTitolo":"Calcolatrice v2",
-        "descrizione":"La Calcolatrice tradizione",
-        "difficolta": "Mediocre",
+        "semiTitolo":"Calcolatrice",
+        "descrizione":"Calcolatrice semplice",
+        "difficolta": "Facile",
         "numImg": 5,
         "src": {
             "compNome": ["Calc"],
-            "compLink": [""], 
-            "indexCss": "",
-            "indexJs": ""
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/index.js"
         }
     },
     {
         "titolo":"PROGETTO 3",
-        "semiTitolo":"Carello della spesa",
+        "semiTitolo":"Counter",
+        "descrizione":"Contatore",
+        "difficolta": "Mediocre",
+        "numImg": 5,
+        "src": {
+            "compNome": ["Counter"],
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.js"
+        }
+    },
+    {
+        "titolo":"PROGETTO 4",
+        "semiTitolo":"Calcolatrice v2",
         "descrizione":"Calcolatrice tradizione",
-        "difficolta": "Difficile",
+        "difficolta": "Mediocre",
         "numImg": 5,
         "src": {
             "compNome": ["Calc"],
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.js"
+        }
+    },
+    {
+        "titolo":"PROGETTO 5",
+        "semiTitolo":"Lista della spesa",
+        "descrizione":"Lista per memorizzare i prodotti da comprare",
+        "difficolta": "Difficile",
+        "numImg": 5,
+        "src": {
+            "compNome": ["Lista"],
             "compLink": [""], 
             "indexCss": "",
             "indexJs": ""
