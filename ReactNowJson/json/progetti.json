@@ -7,8 +7,8 @@
         "numImg": 1,
         "src": {
             "compNome": ["HelloWrld"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/Calc.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/Calc.css"], 
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/MainText.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/MainText.css"], 
             "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.css",
             "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.js"
         }
@@ -32,11 +32,11 @@
         "semiTitolo":"Counter",
         "descrizione":"Contatore",
         "difficolta": "Mediocre",
-        "numImg": 5,
+        "numImg": 4,
         "src": {
             "compNome": ["Counter"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Calc.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Calc.css"], 
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Counter.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Counter.css"], 
             "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.css",
             "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.js"
         }
@@ -60,7 +60,7 @@
         "semiTitolo":"Lista della spesa",
         "descrizione":"Lista per memorizzare i prodotti da comprare",
         "difficolta": "Difficile",
-        "numImg": 5,
+        "numImg": 6,
         "src": {
             "compNome": ["Lista"],
             "compLink": [""], 
