@@ -1,0 +1,42 @@
+[
+    {
+        "titolo":"PROGETTO 1",
+        "semiTitolo":"Calcolatrice",
+        "descrizione":"Una semplice calcolatrice",
+        "difficolta": "Facile",
+        "numImg": 5,
+        "src": {
+            "compNome": ["Calc"],
+            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/Palarvind03/ReactNowJson/main/download/calcolatrice/src/index.js"
+        }
+    },
+    {
+        "titolo":"PROGETTO 2",
+        "semiTitolo":"Calcolatrice v2",
+        "descrizione":"La Calcolatrice tradizione",
+        "difficolta": "Mediocre",
+        "numImg": 5,
+        "src": {
+            "compNome": ["Calc"],
+            "compLink": [""], 
+            "indexCss": "",
+            "indexJs": ""
+        }
+    },
+    {
+        "titolo":"PROGETTO 3",
+        "semiTitolo":"Carello della spesa",
+        "descrizione":"Calcolatrice tradizione",
+        "difficolta": "Difficile",
+        "numImg": 5,
+        "src": {
+            "compNome": ["Calc"],
+            "compLink": [""], 
+            "indexCss": "",
+            "indexJs": ""
+        }
+    }
+]
