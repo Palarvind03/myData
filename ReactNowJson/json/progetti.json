@@ -54,18 +54,5 @@
             "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.css",
             "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.js"
         }
-    },
-    {
-        "titolo":"PROGETTO 5",
-        "semiTitolo":"Lista della spesa",
-        "descrizione":"Lista per memorizzare i prodotti da comprare",
-        "difficolta": "Difficile",
-        "numImg": 6,
-        "src": {
-            "compNome": ["Lista"],
-            "compLink": [""], 
-            "indexCss": "",
-            "indexJs": ""
-        }
     }
 ]
