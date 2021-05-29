@@ -17,7 +17,7 @@
         "titolo":"PROGETTO 2",
         "semiTitolo":"Calcolatrice",
         "descrizione":"Calcolatrice semplice",
-        "difficolta": "Facile",
+        "difficolta": "Medio",
         "numImg": 4,
         "src": {
             "compNome": ["Calc"],
@@ -30,8 +30,8 @@
     {
         "titolo":"PROGETTO 3",
         "semiTitolo":"Counter",
-        "descrizione":"Contatore",
-        "difficolta": "Mediocre",
+        "descrizione":"Contatore dei numeri",
+        "difficolta": "Medio",
         "numImg": 5,
         "src": {
             "compNome": ["Counter"],
@@ -45,7 +45,7 @@
         "titolo":"PROGETTO 4",
         "semiTitolo":"Calcolatrice v2",
         "descrizione":"Calcolatrice tradizione",
-        "difficolta": "Mediocre",
+        "difficolta": "Difficile",
         "numImg": 4,
         "src": {
             "compNome": ["Calc"],
