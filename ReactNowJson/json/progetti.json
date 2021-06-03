@@ -7,10 +7,10 @@
         "numImg": 1,
         "src": {
             "compNome": ["HelloWrld"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/MainText.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/MainText.css"], 
-            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.css",
-            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/helloWorld/src/index.js"
+            "compJsLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/helloWorld/src/MainText.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/helloWorld/src/MainText.css"], 
+            "indexCss": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/helloWorld/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/helloWorld/src/index.js"
         }
     },
     {
@@ -21,10 +21,10 @@
         "numImg": 4,
         "src": {
             "compNome": ["Calc"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/Calc.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/Calc.css"], 
-            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/index.css",
-            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatrice/src/index.js"
+            "compJsLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatrice/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatrice/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatrice/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatrice/src/index.js"
         }
     },
     {
@@ -35,10 +35,10 @@
         "numImg": 5,
         "src": {
             "compNome": ["Counter"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Counter.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/Counter.css"], 
-            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.css",
-            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/counter/src/index.js"
+            "compJsLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/counter/src/Counter.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/counter/src/Counter.css"], 
+            "indexCss": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/counter/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/counter/src/index.js"
         }
     },
     {
@@ -49,10 +49,10 @@
         "numImg": 4,
         "src": {
             "compNome": ["Calc"],
-            "compJsLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.js"], 
-            "compCssLink": ["https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.css"], 
-            "indexCss": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.css",
-            "indexJs": "https://raw.githubusercontent.com/Palarvind03/myData/main/ReactNowJson/download/calcolatriceV2/src/index.js"
+            "compJsLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.js"], 
+            "compCssLink": ["https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatriceV2/src/Calc.css"], 
+            "indexCss": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatriceV2/src/index.css",
+            "indexJs": "https://raw.githubusercontent.com/justDevendra/myData/main/ReactNowJson/download/calcolatriceV2/src/index.js"
         }
     }
 ]
