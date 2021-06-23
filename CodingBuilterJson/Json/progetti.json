@@ -4,13 +4,13 @@
         "semiTitolo":"Build your Team",
         "descrizione":"Creare 1 Video, di una durata massima di due minuti, di presentazione della squadra'",
         "difficolta": "Facile",
-        "numImg": 2,
+        "numImg": 2
     },
     {
         "titolo":"PROGETTO 2",
         "semiTitolo":"Our Website",
         "descrizione":"Creare un sito web della squadra. Il sito sarà il punto di riferimento del lavoro del team e raccoglierà tutti i materiali relativi alle consegne",
         "difficolta": "Dificile",
-        "numImg": 6,
+        "numImg": 6
     }
 ]
